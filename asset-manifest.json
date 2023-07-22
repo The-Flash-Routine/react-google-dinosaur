@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-google-dinosaur/static/css/main.dbecd1df.css",
+    "main.js": "/react-google-dinosaur/static/js/main.ff969379.js",
+    "index.html": "/react-google-dinosaur/index.html",
+    "main.dbecd1df.css.map": "/react-google-dinosaur/static/css/main.dbecd1df.css.map",
+    "main.ff969379.js.map": "/react-google-dinosaur/static/js/main.ff969379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbecd1df.css",
+    "static/js/main.ff969379.js"
+  ]
+}
